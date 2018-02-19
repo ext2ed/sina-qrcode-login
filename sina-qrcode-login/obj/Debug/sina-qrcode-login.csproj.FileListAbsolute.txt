@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\bin\Debug\sina-qrcode-login.exe.config
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\bin\Debug\sina-qrcode-login.exe
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\bin\Debug\sina-qrcode-login.pdb
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\obj\Debug\sina-qrcode-login.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\obj\Debug\sina_qrcode_login.Properties.Resources.resources
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\obj\Debug\sina-qrcode-login.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\obj\Debug\sina-qrcode-login.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\obj\Debug\sina-qrcode-login.exe
+D:\Visual Studio Projects\sina-qrcode-login\sina-qrcode-login\obj\Debug\sina-qrcode-login.pdb
